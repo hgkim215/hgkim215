@@ -11,7 +11,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  iOS 개발자 <br>
+  Mobile App Developer <br>
 </p>
 
 <h3 align="center">🛠 Tech Stack</h3>
