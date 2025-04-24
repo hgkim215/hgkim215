@@ -4,6 +4,7 @@
 <p align="center">
   <a href="mailto:hgkim215@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://kimhyeongi.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=orange"/></a>
+  <a href="https://www.instagram.com/hgkim215/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 <h3 align="center">🚀 About Me</h3>
