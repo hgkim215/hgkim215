@@ -28,8 +28,8 @@
 -->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hgkim215&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgkim215&layout=compact&theme=radical&hide=jupyter%20notebook" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hgkim215&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgkim215&layout=compact&theme=dracula&hide=jupyter%20notebook" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
