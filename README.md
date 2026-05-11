@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hyeongi%20Kim&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Mobile%20%7C%20AI-Native%20Developer&descAlignY=55&descAlign=50" alt="Hyeongi Kim profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hyeongi%20Kim&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Mobile%20%7C%20AI-Native%20Engineer&descAlignY=55&descAlign=50" alt="Hyeongi Kim profile header" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/hgkim215/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<h3 align="center">Mobile product developer who turns ideas into tested apps</h3>
+<h3 align="center">AI-Native Engineer who turns ideas into tested apps</h3>
 
 <p align="center">
   iOS와 Flutter 기반의 모바일 제품을 만들고, Codex와 AI 도구로 문제 정의부터 구현, 검증까지의 반복 속도를 높이고 있습니다.<br />
