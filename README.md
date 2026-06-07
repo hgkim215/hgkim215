@@ -45,6 +45,12 @@
 | [Breathway](https://github.com/hgkim215/2026-SSC-Breathway) | SwiftUI / Healthcare | COPD 및 만성 호흡 불편 사용자를 위한 iPad-first 호흡 회복 루틴 앱입니다. |
 | [codex-skills](https://github.com/hgkim215/codex-skills) | Codex Workflow Automation | Codex, Gemini, Copilot reviewer를 병렬로 활용해 답변과 변경 사항을 교차검증하는 스킬 모음입니다. |
 
+### Contributed Work
+
+| Project | Focus | Contribution |
+| --- | --- | --- |
+| [csnote](https://github.com/kangtegong/csnote) | CS Study Notes | 컴퓨터 과학 학습 노트 오픈소스 프로젝트에 기여했습니다. |
+
 ### GitHub Stats
 
 <p align="center">
