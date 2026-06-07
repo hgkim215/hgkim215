@@ -49,7 +49,7 @@
 
 | Project | Focus | Contribution |
 | --- | --- | --- |
-| [csnote](https://github.com/kangtegong/csnote) | CS Study Notes | 컴퓨터 과학 학습 노트 오픈소스 프로젝트에 기여했습니다. |
+| [csnote](https://github.com/kangtegong/csnote) | CS Study Notes / Web App | 컴퓨터 과학 키워드 노트를 **모바일 퍼스트 웹앱**으로 리디자인했습니다 ([#7](https://github.com/kangtegong/csnote/pull/7), merged). 다크 모드·글자 크기 조절·초성/알파벳 인덱스·전역 검색·즐겨찾기 UI, PWA(오프라인·홈 화면 추가), 그리고 5개 과목 1,133개 용어의 한/영 토글을 데이터 스키마 변경 없이 추가했습니다. |
 
 ### GitHub Stats
 
